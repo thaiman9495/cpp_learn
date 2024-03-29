@@ -8,3 +8,4 @@ In this tutorial, we going to compile a C++ program that print "Hello Thai" to t
    - `g++ hello.cpp -o hello_thai` $\rightarrow$ oupt the output file with name "hello_thai"
 4. Run the output file
    - Just type `hello_thai.exe` in the terminal (windows style)
+   - Just type `./hello_thai` in the terminal (linux style)
